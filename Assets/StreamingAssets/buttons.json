@@ -1,0 +1,52 @@
+{
+    "buttons": [
+        {
+            "displayName": "Power",
+            "action": 0,
+            "isAdded": false,
+            "size": 1.0
+        },
+        {
+            "displayName": "Volume +",
+            "action": 1,
+            "isAdded": false,
+            "size": 1.0
+        },
+        {
+            "displayName": "Volume -",
+            "action": 2,
+            "isAdded": false,
+            "size": 1.0
+        },
+        {
+            "displayName": "Channel +",
+            "action": 3,
+            "isAdded": false,
+            "size": 1.0
+        },
+        {
+            "displayName": "Channel -",
+            "action": 4,
+            "isAdded": false,
+            "size": 1.0
+        },
+        {
+            "displayName": "Pause",
+            "action": 5,
+            "isAdded": false,
+            "size": 1.0
+        },
+        {
+            "displayName": "Play",
+            "action": 6,
+            "isAdded": false,
+            "size": 1.0
+        },
+        {
+            "displayName": "Next",
+            "action": 7,
+            "isAdded": false,
+            "size": 1.0
+        }
+    ]
+}
